@@ -1,5 +1,5 @@
-# OpenShop
-A template for a web application that allows users to buy and sell products using cryptocurrency
+# PollsApp
+A web application used for testing/learning purposes. Largely based off of this [Django tutorial](https://docs.djangoproject.com/en/5.1/intro/tutorial01/).
 
 ## Features
 
